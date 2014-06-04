@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="feeds/rss.xml" rel="self" type="application/rss+xml" />
+<title>ApPHP Hotel Site</title>
+<link>feeds/rss.xml</link>
+<description>ApPHP Hotel Site</description>
+<language>en-us</language>
+<copyright>(c) copyright</copyright>
+<pubDate>Thu, 21 Nov 2013 16:21:26 UTC</pubDate>
+<image>
+<url>images/icons/logo.png</url>
+<title>ApPHP Hotel Site</title>
+<link>feeds/rss.xml</link>
+</image>
+</channel>
+</rss>
